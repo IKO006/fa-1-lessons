@@ -41,6 +41,7 @@ btnMinus.onclick = () => {
     pText.innerText = parseInt(pText.innerText ) - 1 
    
 }}
+// done 
 
 
 
